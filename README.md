@@ -1,6 +1,5 @@
 # AutoStream AI Sales Agent 
-> **Stack:** Python · LangGraph · Claude 3 Haiku · RAG · Tool Calling
-
+> **Stack:** Python · LangGraph · Gemini 2.0 Flash · RAG · Tool Calling
 ---
 
 ## 📁 Project Structure
@@ -29,10 +28,7 @@ pip install -r requirements.txt
 ### 4. Set your API key
 export GOOGLE_API_KEY="your-gemini-api-key-here"
 
-### 5. Run the agent
-```bash
-python main.py
-```
+5. `generate_response` — Builds a context-aware system prompt and generates a reply via Gemini 2.0 Flash
 
 ---
 
