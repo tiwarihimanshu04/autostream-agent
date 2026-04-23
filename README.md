@@ -27,9 +27,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Set your API key
-```bash
-export ANTHROPIC_API_KEY="your-claude-api-key-here"
-```
+export GOOGLE_API_KEY="your-gemini-api-key-here"
 
 ### 5. Run the agent
 ```bash
