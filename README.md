@@ -1,5 +1,4 @@
-# AutoStream AI Sales Agent
-> **Built for:** ServiceHive · Inflx ML Intern Assignment  
+# AutoStream AI Sales Agent 
 > **Stack:** Python · LangGraph · Claude 3 Haiku · RAG · Tool Calling
 
 ---
